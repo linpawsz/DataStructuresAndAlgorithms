@@ -3,16 +3,16 @@ Data Structures and Algorithms
 [TODO]  
 
 Data Structures
-- Linked Lists
-- Stack  
-- Queue
-- Binary Tree
-- Binary Search Tree
-- Graph
+- 01 Linked Lists
+- 02 Stack  
+- 03 Queue
+- 04 Binary Tree
+- 05 Binary Search Tree
+- 06 Graph
 
 Algorithms
-- Quick Sort
-- Merge Sort
+- 07 Quick Sort
+- 08 Merge Sort
 
 Reference page 
 - https://www.geeksforgeeks.org/data-structures/  

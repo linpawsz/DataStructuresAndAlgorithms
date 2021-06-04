@@ -154,7 +154,7 @@ if __name__ == '__main__':
     llist.append(4)
     llist.insertAfter(llist.head.next, 8)
     llist.deleteNode(7)
-    #llist.deleteNode_position(3)
+    # llist.deleteNode_position(3)
 
     # Traverse the Linked List
     llist.printList()
