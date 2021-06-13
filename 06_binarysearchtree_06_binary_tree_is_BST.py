@@ -15,6 +15,7 @@ class Node:
         self.right = None
 
 
+# This is the crappiest BST check code I've seen - can write better!
 def isBSTUtil(root, prev):
     # traverse the tree in inorder fashion
     # and keep track of prev node
